@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Manrope:wght@200..800&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", serif;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  padding: 3rem 0rem;
+  background-color: #F2F5FA;
+  flex-direction: column;
+}

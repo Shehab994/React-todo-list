@@ -1,0 +1,7 @@
+ul {
+    width: 20rem;
+    display: flex;
+    margin-top: 1rem;
+    gap: .8rem;
+    flex-direction: column;
+}
